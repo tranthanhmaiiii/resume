@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My resume</title>
+  </head>
+  <body>
+    <h1>Tran Thanh Mai</h1>
+    <img src="https://raw.githubusercontent.com/appbrewery/webdev/main/kitten.jpeg">
+    <h2>Summary</h2>
+    <p>I'm 26 years old, I'm living in Malaysia</p>
+    <hr />
+    <h2>Education</h2>
+    <ul>
+      <li>Bachelor degree at BA - Hanoi University</li>
+    </ul>
+    <hr />
+    <h2>Work Experience</h2>
+    <ul>
+      <li> <h3>Customer service</h3>
+      <p>June 2023 - Oct 2023</p>
+        <ul>
+          <li>Call customer</li>
+          <li>Provide chat support</li>
+        </ul>
+      </li>
+      <li> <h3>Content Moderator</h3>
+      <p>Mar 2021 - Mar 2023</p>
+        <ul>
+          <li>Moderate content on the internet</li>
+          <li>Provide training</li>
+        </ul>
+      </li>
+    </ul>
+    <hr />
+    <h2>Skills</h2>
+    <ul>
+      <li>Communication</li>
+      <li>Excel</li>
+    </ul>
+    <hr />
+    <ul>
+      <li> <a href="https://appbrewery.github.io/capstone-1-example/">My hobby</a></li>
+    </ul>
+    <footer>
+        <p>© 2018 Gandalf</p>
+      </footer>
+  </body>
+ 
